@@ -109,6 +109,14 @@ I work at the intersection of **infrastructure, cybersecurity, and data analytic
 
 ---
 
+## 🔥 Contribution Activity  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrguru46539&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
 ## 🎯 Current Focus  
 
 - Data Science & Machine Learning  
