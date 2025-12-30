@@ -110,10 +110,7 @@ I work at the intersection of **infrastructure, cybersecurity, and data analytic
 ## 🔥 GitHub Streak  
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=mrguru46539&theme=tokyonight&hide_border=true"
-    width="70%"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrguru46539&theme=tokyonight&hide_border=true" width="70%" />
 </p>
 
 ---
