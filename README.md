@@ -1,62 +1,121 @@
-<div align="center">
+# 👋 Hi, I'm Saurabh Yadav  
 
-# Hi there, I'm Saurabh Yadav! 👋
+🚀 **IT Infrastructure & Cybersecurity Professional → Data Science Practitioner**  
+📍 Ghaziabad, Uttar Pradesh, India  
 
-### 🔐 Cybersecurity Specialist turned 📊 Data Scientist
-*Building the future of AI-Driven Security Architecture*
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Data+Science+Scholar+(MCA);Network+Security+Engineer+(Ex-SAIL);AI+Threat+Detection+Researcher;Python+%26+SQL+Developer" alt="Typing SVG" />
-</a>
-
-[![](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mrguru46539)
-[![](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:saurabhkumaryadav899@gmail.com)
-
-</div>
+📧 **Email:** saurabhkumaryadav899@gmail.com  
+📞 **Phone:** +91-9599339302  
+🔗 **LinkedIn:** https://linkedin.com/in/mrguru46539  
 
 ---
 
-### 👨‍💻 About Me
+## 🧠 About Me  
 
-[cite_start]I am an IT professional with over **2 years of experience** in Network Security and L3 Infrastructure Management[cite: 5, 59]. [cite_start]Currently, I am pursuing my **Master of Computer Applications (MCA)** in Data Science at **Gautam Buddha University**[cite: 31, 83].
+Results-oriented **IT & Network Security professional** with **2+ years of enterprise experience**, currently pursuing **MCA in Data Science**.  
 
-[cite_start]My goal is to bridge the gap between **Cybersecurity** and **Machine Learning** by building automated models that predict and neutralize threats before they happen[cite: 8, 49].
+I specialize in **L3 support, infrastructure security, and network engineering**, and I’m now focused on applying **Machine Learning and Data Analytics** to **cybersecurity use cases** such as anomaly detection and predictive threat analysis.
 
-* [cite_start]🔭 **Currently working on:** AI-driven models for automated threat detection and log analysis[cite: 35, 47].
-* [cite_start]💼 **Previous Experience:** Secured enterprise networks for clients like **SAIL** and **Lumax**, achieving 100% compliance in security protocols[cite: 7, 13].
-* [cite_start]🎓 **Education:** BCA in Cyber Security (IMS) & MCA in Data Science (GBU)[cite: 32, 37].
+💡 *My strength lies in combining real-world infrastructure experience with data-driven decision making.*
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack  
 
-| **Domain** | **Technologies** |
-| :--- | :--- |
-| **Data Science** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) |
-| **Cyber Security** | ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-blue?style=flat) ![PenTesting](https://img.shields.io/badge/Pen_Testing-Red?style=flat) |
-| **Networking** | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white) ![Firewall](https://img.shields.io/badge/Firewalls-orange?style=flat) ![VPN](https://img.shields.io/badge/VPN-green?style=flat) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
+### 🔹 Data Science & AI  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
----
+### 🔹 Cybersecurity  
+![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-black)
+![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-darkred)
+![SIEM](https://img.shields.io/badge/SIEM-2E3440)
+![DLP](https://img.shields.io/badge/DLP-005571)
 
-### 🚀 Featured Projects
-
-#### 🛡️ AI-Driven Threat Detection (Research)
-*Leveraging Supervised Learning to detect anomalies in network traffic logs.*
-* [cite_start]**Context:** MCA Research Focus[cite: 47].
-* **Tech:** Python, Scikit-Learn, Pandas, Network Logs.
-* [cite_start]**Goal:** Building models to predict potential security breaches based on historical attack data[cite: 49].
-
-#### 🏢 Secure Campus Network Design
-*Enterprise-grade network architecture supporting high-volume university traffic.*
-* [cite_start]**Context:** BCA Major Project[cite: 42].
-* [cite_start]**Tech:** Cisco Packet Tracer, VLANs, Firewalls, Access Control Lists (ACLs)[cite: 44, 46].
-* [cite_start]**Outcome:** Designed a scalable network with segmentation to prevent unauthorized entry[cite: 43].
+### 🔹 Network & IT Operations  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows)
+![Networking](https://img.shields.io/badge/Networking-LAN/WAN/VPN-blue)
 
 ---
 
-### 📊 GitHub Stats
+## 💼 Professional Experience  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
-</div>
+### **IT Executive** — *Lumax Fae Technology Pvt. Ltd.*  
+📍 Gurugram | 🗓 Aug 2023 – Mar 2024  
+- Managed IT infrastructure for **500+ systems** with **99.9% uptime**  
+- Automated backups ensuring **100% security compliance**  
+- Network log analysis improved performance by **20%**  
+- Conducted audits & enforced cybersecurity best practices  
+
+---
+
+### **Desktop (L3) & Network Support Engineer** — *Vserv Infosystems (Client: SAIL)*  
+📍 Delhi | 🗓 Apr 2022 – Jul 2023  
+- Delivered **L3 critical support** under strict SLAs  
+- Configured **VLANs, VPNs, Firewalls** in enterprise networks  
+- Implemented encryption & system hardening  
+- Mentored L1/L2 teams, improving resolution rate by **15%**  
+
+---
+
+## 🎓 Education  
+
+🎓 **MCA – Data Science**  
+**Gautam Buddha University** (2024 – Present)  
+- ML, Big Data Analytics, Cloud Computing  
+- Research: **AI-based Threat Detection & Log Analysis**
+
+🎓 **BCA – Cyber Security**  
+**Institute of Management Studies (IMS)** (2018 – 2021)  
+- Major Project: **Secure Campus Network Architecture**  
+
+---
+
+## 📌 Featured Projects  
+
+### 🔐 Campus Network Design  
+- Secure & scalable university network  
+- VLAN segmentation & firewall implementation  
+- Vulnerability assessment & mitigation  
+- **Tech:** Cisco Packet Tracer, Wireshark, Nmap  
+
+### 🤖 AI-Driven Threat Detection *(Ongoing)*  
+- ML-based anomaly detection on network logs  
+- Predictive breach analysis  
+- **Tech:** Python, Pandas, Scikit-learn, SQL  
+
+---
+
+## 📊 GitHub Stats  
+
+![Saurabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+
+---
+
+## 🎯 Current Focus  
+
+- Data Science & Machine Learning  
+- Security Analytics  
+- AI for Network Threat Detection  
+- Cloud & Scalable Systems  
+
+---
+
+## 🤝 Let’s Connect  
+
+I’m open to:  
+✔️ Data Science projects  
+✔️ Cybersecurity research  
+✔️ Open-source collaboration  
+✔️ Entry-level / Internship roles in Data Science  
+
+⭐ *If you like my work, don’t forget to star my repositories!*
