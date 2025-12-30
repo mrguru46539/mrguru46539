@@ -1,13 +1,17 @@
 # 👋 Hi, I'm Saurabh Yadav  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=IT+%26+Cybersecurity+Professional;MCA+Data+Science+Student;AI+%7C+ML+%7C+Security+Analytics;Turning+Infrastructure+Data+into+Insights" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=IT+%26+Cybersecurity+Professional;MCA+Data+Science+Student;AI+%7C+ML+%7C+Security+Analytics;Turning+Infrastructure+Data+into+Insights" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=38BDF8&style=flat" />
 </p>
 
 🚀 **IT Infrastructure & Cybersecurity Professional → Data Science Practitioner**  
 📍 Ghaziabad, Uttar Pradesh, India  
 
-📧 **Email:** saurabhkumaryadav899@gmail.com    
+📧 **Email:** saurabhkumaryadav899@gmail.com  
 🔗 **LinkedIn:** https://linkedin.com/in/mrguru46539  
 
 ---
@@ -88,14 +92,14 @@ I work at the intersection of **infrastructure, cybersecurity, and data analytic
 
 ---
 
-## 📊 GitHub Analytics (Animated)  
+## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -103,7 +107,7 @@ I work at the intersection of **infrastructure, cybersecurity, and data analytic
 ## 🔥 GitHub Streak  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
