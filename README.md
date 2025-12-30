@@ -1,21 +1,22 @@
 # 👋 Hi, I'm Saurabh Yadav  
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=IT+%26+Cybersecurity+Professional;MCA+Data+Science+Student;AI+%7C+ML+%7C+Security+Analytics;Turning+Infrastructure+Data+into+Insights" />
+</p>
+
 🚀 **IT Infrastructure & Cybersecurity Professional → Data Science Practitioner**  
 📍 Ghaziabad, Uttar Pradesh, India  
 
-📧 **Email:** saurabhkumaryadav899@gmail.com  
-📞 **Phone:** +91-9599339302  
+📧 **Email:** saurabhkumaryadav899@gmail.com    
 🔗 **LinkedIn:** https://linkedin.com/in/mrguru46539  
 
 ---
 
 ## 🧠 About Me  
 
-Results-oriented **IT & Network Security professional** with **2+ years of enterprise experience**, currently pursuing **MCA in Data Science**.  
+Results-driven **IT & Network Security professional** with **2+ years of enterprise experience**, currently pursuing **MCA in Data Science**.  
 
-I specialize in **L3 support, infrastructure security, and network engineering**, and I’m now focused on applying **Machine Learning and Data Analytics** to **cybersecurity use cases** such as anomaly detection and predictive threat analysis.
-
-💡 *My strength lies in combining real-world infrastructure experience with data-driven decision making.*
+I work at the intersection of **infrastructure, cybersecurity, and data analytics**, focusing on **machine learning–based threat detection, log analysis, and performance optimization**.
 
 ---
 
@@ -44,32 +45,31 @@ I specialize in **L3 support, infrastructure security, and network engineering**
 
 ### **IT Executive** — *Lumax Fae Technology Pvt. Ltd.*  
 📍 Gurugram | 🗓 Aug 2023 – Mar 2024  
-- Managed IT infrastructure for **500+ systems** with **99.9% uptime**  
-- Automated backups ensuring **100% security compliance**  
+- Managed IT infrastructure for **500+ endpoints** with **99.9% uptime**  
+- Automated backups achieving **100% security compliance**  
 - Network log analysis improved performance by **20%**  
-- Conducted audits & enforced cybersecurity best practices  
+- Conducted audits & enforced cybersecurity standards  
 
 ---
 
 ### **Desktop (L3) & Network Support Engineer** — *Vserv Infosystems (Client: SAIL)*  
 📍 Delhi | 🗓 Apr 2022 – Jul 2023  
-- Delivered **L3 critical support** under strict SLAs  
-- Configured **VLANs, VPNs, Firewalls** in enterprise networks  
+- Delivered **L3 critical support** under strict SLA environments  
+- Configured **VLANs, VPNs, Firewalls**  
 - Implemented encryption & system hardening  
-- Mentored L1/L2 teams, improving resolution rate by **15%**  
+- Mentored L1/L2 engineers (+15% resolution efficiency)  
 
 ---
 
 ## 🎓 Education  
 
-🎓 **MCA – Data Science**  
-**Gautam Buddha University** (2024 – Present)  
+🎓 **MCA – Data Science** (2024 – Present)  
+**Gautam Buddha University**  
 - ML, Big Data Analytics, Cloud Computing  
 - Research: **AI-based Threat Detection & Log Analysis**
 
-🎓 **BCA – Cyber Security**  
-**Institute of Management Studies (IMS)** (2018 – 2021)  
-- Major Project: **Secure Campus Network Architecture**  
+🎓 **BCA – Cyber Security** (2018 – 2021)  
+**Institute of Management Studies (IMS)**  
 
 ---
 
@@ -77,8 +77,8 @@ I specialize in **L3 support, infrastructure security, and network engineering**
 
 ### 🔐 Campus Network Design  
 - Secure & scalable university network  
-- VLAN segmentation & firewall implementation  
-- Vulnerability assessment & mitigation  
+- VLAN segmentation & firewall policies  
+- Vulnerability assessment  
 - **Tech:** Cisco Packet Tracer, Wireshark, Nmap  
 
 ### 🤖 AI-Driven Threat Detection *(Ongoing)*  
@@ -88,34 +88,40 @@ I specialize in **L3 support, infrastructure security, and network engineering**
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Analytics (Animated)  
 
-![Saurabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 🔥 GitHub Streak  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 🎯 Current Focus  
 
 - Data Science & Machine Learning  
-- Security Analytics  
-- AI for Network Threat Detection  
+- Security Analytics & Threat Detection  
+- AI for Network & Log Analysis  
 - Cloud & Scalable Systems  
 
 ---
 
-## 🤝 Let’s Connect  
+## 🤝 Let’s Collaborate  
 
-I’m open to:  
 ✔️ Data Science projects  
 ✔️ Cybersecurity research  
-✔️ Open-source collaboration  
-✔️ Entry-level / Internship roles in Data Science  
+✔️ Open-source contributions  
+✔️ Entry-level / Internship roles  
 
-⭐ *If you like my work, don’t forget to star my repositories!*
+⭐ *Star my repositories if you find them useful!*
