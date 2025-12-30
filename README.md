@@ -95,14 +95,8 @@ I work at the intersection of **infrastructure, cybersecurity, and data analytic
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=mrguru46539&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    width="48%"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrguru46539&layout=compact&theme=tokyonight&hide_border=true"
-    width="48%"
-  />
+  <img src="https://stats.hyochan.dev/api?username=mrguru46539&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://stats.hyochan.dev/api/top-langs/?username=mrguru46539&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -110,10 +104,7 @@ I work at the intersection of **infrastructure, cybersecurity, and data analytic
 ## 🔥 GitHub Streak  
 
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=mrguru46539&theme=tokyonight&hide_border=true"
-    width="70%"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrguru46539&theme=tokyonight&hide_border=true" width="70%" />
 </p>
 
 ---
